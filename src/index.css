@@ -46,6 +46,17 @@ body > div {
 }
 
 .home {
-  background-color: rgb(8, 133, 8);
+  background-color: rgb(133, 8, 125);
   color: white;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  justify-content: space-evenly;
+  font-size: 1.5em;
+  padding: 10px 0;
+  background-color: rgb(243, 243, 243);
 }
